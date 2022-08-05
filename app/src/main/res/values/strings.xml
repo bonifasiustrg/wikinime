@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Wikinime</string>
+    <string name="name">Name</string>
+    <string name="detail">Detail Character</string>
+    <string name="myName">Bonifasius Tarigan</string>
+    <string name="myEmail">bonifasiustrg@student.telkomuniversity.ac.id</string>
+
+    <!--    <array name="photo">
+            <item>@drawable/dimitrivegas_likemike</item>
+            <item>@drawable/diplo</item>
+            <item>@drawable/hardwell</item>
+            <item>@drawable/illenium</item>
+            <item>@drawable/marshmello</item>
+            <item>@drawable/martingarrix</item>
+            <item>@drawable/thechainsmoker</item>
+            <item>@drawable/tiesto</item>
+            <item>@drawable/w_w</item>
+            <item>@drawable/zedd</item>
+        </array>
+
+        <string-array name="name">
+            <item>Dimitri vegas Dan Like Mike</item>
+            <item>Diplo</item>
+            <item>Hardwell</item>
+            <item>Illenium</item>
+            <item>Marshmello</item>
+            <item>Martin Garrix</item>
+            <item>The Chainsmoker</item>
+            <item>Tiesto</item>
+            <item>W dan W</item>
+            <item>Zedd</item>
+        </string-array>
+
+        <string-array name="detail">
+            <item>Progressive House</item>
+            <item>Dubstep</item>
+            <item>Progressive House</item>
+            <item>Future Bass</item>
+            <item>Trap</item>
+            <item>Progressive House</item>
+            <item>Future Bass</item>
+            <item>Progressive House</item>
+            <item>Progressive House</item>
+            <item>Progressive House</item>
+        </string-array>-->
+    <string-array name="name">
+        <item>Kenshin Himura</item>
+        <item>Aoshi Shinomori</item>
+        <item>Hajime Saito</item>
+        <item>Shishio</item>
+        <item>Hiko Seijuro</item>
+        <item>Sanosuke Sagara</item>
+        <item>Myōjin Yahiko</item>
+        <item>Kaoru Kamiya</item>
+        <item>Makimachi Misao</item>
+        <item>Sojiro Seta</item>
+        <item>Enishi Yukishiro</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/kenshin_himura</item>
+        <item>@drawable/aoshi_shinomori</item>
+        <item>@drawable/saito_hajime</item>
+        <item>@drawable/shishio_makoto</item>
+        <item>@drawable/hiko_seijuro</item>
+        <item>@drawable/sanosuke_sagara</item>
+        <item>@drawable/myojin_yahiko</item>
+        <item>@drawable/kaoru_kamiya</item>
+        <item>@drawable/makimachi_misao</item>
+        <item>@drawable/sojiro_seta</item>
+        <item>@drawable/enishi_yukishiro</item>
+    </array>
+
+    <string-array name="detail">
+        <item>Kenshin Himura atau Samurai X , yang dikenal sebagai Hitokiri legendaris Revolusi Meiji, Himura Battōsai (緋 村 抜 刀 斎), adalah protagonis utama dan karakter tituler dari seri Rurouni Kenshin.
+            Kenshin telah menghabiskan sepuluh tahun perjalanan Jepang sebagai Rurouni yang mencari penebusan, membawa Sakabatō dengan sumpah untuk tidak pernah membunuh lagi.
+            Pada awal 1878, ia tiba di Tokyo dan memilih tinggal di dojo Kamiya milik Kaoru Kamiya, di mana sumpahnya diuji saat ia berjuang untuk menjaga perdamaian di negara itu.
+        </item>
+        <item>
+        Shinomori Aoshi adalah pemimpin muda jenius dari onmitsu Oniwabanshū. Dikenal pengikutnya sebagai \"Okashira\", keterampilan Aoshi dalam pertempuran, stealth dan pengumpulan informasi yang tanpa paralel, tapi setelah kehilangan kesempatan untuk mendapatkan kemuliaan untuk Oniwabanshū selama Bakumatsu, ia memimpin sekelompok orang dalam melayani sebagai penegak untuk kaya industrialis dan opium agen Takeda Kanryū dengan harapan menemukan medan perang baru di era Meiji.
+        Ketika Kanryū membuat dirinya musuh dari Hitokiri Battōsai legendaris, Aoshi percaya bahwa kesempatan lama merindukan untuk membuktikan superioritas Oniwabanshū akhirnya datang. Sayangnya, penipuan jahat Kanryū dan keserakahan biaya pria Aoshi dunia kehidupan mereka dan rasa malu dikalahkan dan kemudian diselamatkan oleh Battōsai melaju Okashira untuk sumpah baru:
+        ia akan mengalahkan Battōsai pada biaya apapun untuk mendapatkan gelar \"terkuat\" dan melimpahkan gelar atas kuburan rekan-rekannya.
+        </item>
+        <item>
+        Saito Hajime adalah mantan kapten dari unit ketiga dari Shinsengumi dan saat ini agen khusus untuk Departemen Pemerintah Meiji Dalam Negeri. Memiliki persaingan lama dengan Kenshin Himura sejak hari-hari mereka di sisi berlawanan dari Bakumatsu,
+        Saito tetap memegang hormat yang menjadi dendam untuk Rurouni dan telah datang untuk membantunya pada tugas lebih dari sekali, bertindak sebagai sekutu kejam dan suara sinis alasan dalam pertempuran utama Kenshin-gumi itu.
+        </item>
+        <item>
+        Shishio Makoto adalah mantan Bajak Laut Topi Jerami dikenal dalam jajaran sebagai penerus Battōsai ini. Tapi setelah \"kawan\" di pemerintah berusaha dan gagal untuk membunuhnya, Shishio Makoto menghabiskan dekade berikutnya perlahan mengumpulkan kekuatan dan mengembangkan milisi anti-pemerintah yang dipimpin oleh grup pribadi sendiri prajurit elit - Juppongatana. Shishio adalah antagonis utama dari busur Kyoto.
+        </item>
+        <item>
+        "Hiko Seijuro XNXX (比 古 清 十郎 十三 代, Hiko Seijuro Jūsandai) adalah master Kenshin Himura dalam anime / manga seri Rurouni Kenshin. biasanya ia menggunakan nama Ni'itsu Kakunoshin"
+        </item>
+        <item>
+        Sanosuke Sagara, lahir Higashidani Sanosuke, adalah karakter utama dalam serial Rurouni Kenshin. Seorang mantan anggota Angkatan Darat Sekiho di masa mudanya, Sanosuke menghabiskan tahun-tahun setelah Revolusi Meiji mengambil frustrasi sebagai \"petarung bayaran\" di bawah nama Zanza, sambil membenci Ishin Shishi-yang dibingkai dan dibunuh rekan-rekannya sebagai serta cacatnya pemerintah Meiji yang mereka ciptakan.
+        Akan tetapi, setelah bertemu Kenshin, bagaimanapun, Sano mampu menyampingkan perasaannya dan mengakhiri kegiatan petarung bayarannya - dan bersama dengan kelompok Kenshin tinggal di dojo Kaoru Kamiya . Dengan kekuatan yang besar dan karakter tegak, Sanosuke disambut sebagai sekutu yang berharga dalam petualangan Kenshin, saling melayani sebagai teman terpercaya di masa damai dan diandalkan sebagai \"tangan kanan\" dalam pertempuran.
+        </item>
+        <item>
+        Yahiko Myojin adalah satu-satunya anak dari keluarga samurai berpangkat rendah, tetapi menjadi yatim piatu selama tahun-tahun awal era Meiji ketika keluarga sudah miskin nya jatuh pada masa sulit.
+        Memiliki tidak ada orang lain untuk berpaling, Yahiko dibuat pencopet di yakuza Tanishi, kepada siapa orang tua almarhum berutang sejumlah besar uang. Namun, pada awal 1878, Yahiko muda bertemu dan diselamatkan oleh pendekar Kenshin Himura,
+        yang membebaskan dia dari utangnya ke Tanishi dan membawanya ke tinggal di Dojo Kamiyanya Kaoru Kamiya, di mana anak itu bisa mengasah kekuatannya dan mengembalikan harga dirinya dengan mempelajari kenjutsu . Meskipun masih kecil, Yahiko perlahan-lahan menjadi pendekar yang kompeten di Kamiya Kasshin-ryu dan akhirnya salah satu sekutu paling dipercaya Kenshin.
+        </item>
+        <item>
+        "Kamiya Kaoru adalah gadis muda dan bertindak instruktur dari Kamiya Kasshin-ryu kenjutsu di Dojo Kamiya di Tokyo dan pemeran utama wanita dari seri Rurouni Kenshin. Setelah bertemu dan diselamatkan oleh Rurouni Kenshin Himura," +
+        "Kaoru meminta dia untuk tinggal di dojo. dan Rurouni Kenshin mengakhiri sepuluh tahun mengembara. Meskipun hubungan mereka awalnya dimulai dengan saling syukur dan hormat, Kaoru pada dasarnya berfungsi sebagai faktor pendorong" +
+        "utama Kenshin dan sebagai jangkar untuk hancur harga dirinya, hubungan mereka perlahan-lahan menjadi bunga cinta.",
+        </item>
+        <item>>
+        "Misao Makimachi adalah onmitsu remaja dan anggota termuda dari Oniwabanshū yang berbasis di Kyoto. Sebuah pengagum Aoshi Shinomori , Misao meninggalkan rumah untuk mencari pahlawan nya yang hilang, dan bertemu dengan Kenshin" +
+        "Himura selama perjalanannya ke Kyoto dan tetap berharap bahwa ia akan membawanya ke Aoshi. Dia segera membuktikan dirinya sekutu yang berharga dan untuk sementara diberi nama baru Okashira Oniwabanshū (pemimpin).",
+        </item>
+        <item>
+        "Sōjirō Seta adalah anggota tercepat dari Juppongatana. Dia adalah tangan kanan dari Shishio Makoto dan pendekar paling terampil di antara krunya. Dia biasanya terlihat di sisi Shishio ini. Bila tidak dengan Shishio, ia pergi pada" +
+        "misi seperti pembunuhan atau mengumpulkan lainnya Juppongatana. Julukannya adalah \"Sojiro The Tenken\". Ia percaya dalam filsafat Shishio yang hanya bertahan (Darwinisme sosial). \"Jika Anda kuat Anda tinggal, jika Anda lemah Anda mati\"." +
+        "Pedang favoritnya adalah Kikuichimonji-norimune, yang retak oleh Sakabatō Kenshin selama kontes Battōjutsu. Dia adalah salah satu yang bertanggung jawab atas pembunuhan Okubo Toshimichi.",
+        </item>
+        <item>
+        "Yukishiro Enishi adalah adik dari almarhum Yukishiro Tomoe, dan antagonis utama dari Jinchū Arc."
+        </item>
+    </string-array>
+</resources>
